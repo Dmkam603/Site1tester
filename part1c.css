@@ -1,0 +1,21 @@
+* {
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(7, 75, 7);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: rgb(72, 75, 79);
+}
